@@ -1,0 +1,53 @@
+# Site wide configuration
+
+title: Not so awesome software engineer 
+locale: en_US
+description: Trying to figure out how this software stuff works 
+logo: universe.png
+search: true
+url: 
+
+
+# Jekyll configuration
+
+permalink:   /:categories/:title/
+markdown:    kramdown
+highlighter: pygments
+sass:
+  sass_dir: _sass
+  style: compressed
+gems:
+  - jekyll-sitemap
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  use_coderay: false
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md", "vendor"]
+
+
+# Site owner
+owner:
+  name: Hugo Almeida 
+  avatar: bio-photo.jpg
+  email: squall.griffinheart@gmail.com 
+  disqus-shortname:
+  twitter: leShadowGriff 
+  facebook: #username
+  github: GriffinHeart 
+  stackexchange: http://stackoverflow.com/users/343391/griffinheart
+  linkedin: hfalmeida 
+  instagram: #username
+  flickr: #username
+  tumblr: #username
+  google:
+    plus: #username
+    analytics: UA-53678640-1
+    verify: TdC8f4fdBU99H2OsAjcC-J-SGAmXLOPZ2Yo103oOUz4
+    ad-client:
+    ad-slot: 
+  bing-verify: D24B4BBC53C11A0E39FAAA7CDA5BB2F1
