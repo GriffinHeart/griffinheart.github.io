@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: about
 title: What am I doing here!? 
 excerpt: "Hi I'm Hugo, this where i talk about anything"
 modified: 2014-08-08T19:44:38.564948-04:00
