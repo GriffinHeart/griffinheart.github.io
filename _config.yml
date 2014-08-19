@@ -33,9 +33,9 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 # Site owner
 owner:
   name: Hugo Almeida 
-  avatar: bio-photo.jpg
+  avatar: hugo-relax.png
   email: squall.griffinheart@gmail.com 
-  disqus-shortname:
+  disqus-shortname: griffinheart
   twitter: leShadowGriff 
   facebook: #username
   github: GriffinHeart 

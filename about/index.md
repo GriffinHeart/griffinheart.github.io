@@ -1,22 +1,30 @@
 ---
 layout: page
 title: What am I doing here!? 
-excerpt: "So Simple is a responsive Jekyll theme for your words and images."
+excerpt: "Hi I'm Hugo, this where i talk about anything"
 modified: 2014-08-08T19:44:38.564948-04:00
+share: true
 ---
 
-Looking for a simple, responsive, theme for your Jekyll powered blog? Well look no further. Here be **So Simple Theme**, the follow up to [**Minimal Mistakes**](http://mmistakes.github.io/minimal-mistakes) --- by designer slash illustrator [Michael Rose](http://mademistakes.com).
+Hey, I'm Hugo.
 
-## So Simple Theme is all about:
+This is my personal website/blog. Expect to find anything from programming to personal stuff.
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 9+ and all modern browsers.
-* Minimal embellishments and subtle animations.
-* Optional large feature images for posts and pages.
-* [Custom 404 page]({{ site.url }}/404.html) to get you started.
-* [Simple site search](https://github.com/christian-fei/Simple-Jekyll-Search)
-* Support for Disqus Comments
+I'm a, not so awesome, software engineer with a passion to be great, I enjoy solving problems at any level, be it technical or business.
 
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install Minimal Mistakes Theme</a>
+I'm living in Tokyo, since I was a kid I've wanted to come to Japan, it's a magical weird place. I was in love with Japan before I came here and amazed every day since I got here. I work mainly as a full stack developer and am a generalist.
 
-[^1]: Example: *domain.com/category-name/post-title*
+What do you like?
+
+* Ruby and Ruby on Rails
+* Roller skating
+* Dancing salsa
+* Learning and improving my abilities
+* The art of software engineering (O.o)!
+* Reading hacker news
+
+Where can I find you?
+
+At the usual suspects for a developer, try [github](http://github.com/GriffinHeart) or perhaps [twitter](https://twitter.com/leShadowGriff). I also have [linkedin](https://www.linkedin.com/in/hfalmeida) and a [coderwall](https://coderwall.com/griffinheart).
+
+If you really want you can also send me an email `squall.griffinheart [at] gmail [dot] com`. (yes I'm a HOMM3 and FF fan)
