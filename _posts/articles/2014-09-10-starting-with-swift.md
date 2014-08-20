@@ -78,4 +78,4 @@ Swift looks like a very huge improvement over obj-c in my opinion, learning the 
 
 Oh and by the way, did I tell you **Tokyo Last Train** is available in the [Google Store](https://play.google.com/store/apps/details?id=com.tokyolasttrain&hl=en)?
 
-[^1]: <https://developer.apple.com/library/prerelease/mac/documentation/Swift/Conceptual/Swift_Programming_Language/TheBasics.html>
+[^1]: [Swift Programming Language - The Basics](https://developer.apple.com/library/prerelease/mac/documentation/Swift/Conceptual/Swift_Programming_Language/TheBasics.html)
