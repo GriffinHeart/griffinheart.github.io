@@ -8,9 +8,9 @@ comments: true
 share: true
 ---
 
-I was never a fan of obj-c, I don't like looking at it, it looks alien, disorganized and unclean.
+I was never a fan of obj-c, I don't like looking at it, looks alien, disorganized and unclean.
 
-I guess the problem comes from having my first experience with obj-c after having started working with Ruby and Ruby on Rails. Frankly it doesn't make much sense, I've worked with C and C++, maybe it just the method calling syntax or the Xcode IDE.
+I guess the problem comes from having my first experience with obj-c after starting to work with Ruby and Ruby on Rails. Frankly it doesn't make much sense, I've worked with C and C++, maybe it just the method calling syntax or the Xcode IDE.
 
 This never looked pretty to me:
 
@@ -31,20 +31,22 @@ The first coding club I went was in August 4th, organized by [Ahart](http://www.
 
 ###So here is what I learned
 
-My objective for that coding club was to have an application that showed 2 input boxes and a button after you press the button you get some results. Here's how it looked:
+My objective for the coding club was to have an application that showed 2 input boxes and a button after you press the button you get some results. Here's how it looked:
 
 <figure>
 	<img src="/images/first-results.jpg" alt="First results from the coding club">
 	<figcaption>Result after the coding club</figcaption>
 </figure>
 
-Not very impressive, but I went from 0 to something. I learned a few things about `Storyboards` and Swift `optionals`.
+Not very impressive, but I went from 0 to something and learned a few things about `Storyboards` and Swift `optionals`.
 
 ####Storyboard
 
-Its very easy to click the `.storyboard` file and start putting boxes, labels and all kinds of stuff in your layout, but then what? I need to connect the layout with code.
+Its very easy to click the `.storyboard` file and start putting boxes, labels and all kinds of stuff in your layout, but then you need to connect the layout with code.
 
-Xcode looks like a proper IDE, something tells me I don't need to go and do it manually. A few google searches and I couldn't find any good results. Oh, I'm in a coding club, theres people around me, I should talk to them. Note to self: socialize more, people rarely bite.
+Xcode looks like a proper IDE, something tells me I don't need to go and do it manually. A few google searches didn't give me what i was looking for, but then i realized I'm in a coding club, theres people around me, I should talk to them.
+
+Note to self: socialize more, people rarely bite.
 
 See that button there, the one that looks like a tuxedo and bow tie button? Press that and you get a side by side code view and layout view. From then on you can drag from the `outlets` and `actions` to code and Xcode will insert the relevant stuff. Here's a gif:
 
