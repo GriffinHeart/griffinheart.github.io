@@ -21,7 +21,7 @@ This never looked pretty to me:
 
 Naturally when Apple announced the release of Swift I said to my self "nothing can be worse than obj-c", so I wanted to give it a try.
 
-Enter **Tokyo Last Train**, an Android application built by [Edern](https://www.behance.net/edern), [Iolanda](pt.linkedin.com/in/yolandacorreia) and me.
+Enter **Tokyo Last Train**, an Android application built by [Edern](https://www.behance.net/edern), [Iolanda](https://www.linkedin.com/in/yolandacorreia) and me.
 
 Small application, about 3 screens (splash, main, results) and 2 input boxes. Sounds simple enough. Now if I just had the time to focus on it.
 
