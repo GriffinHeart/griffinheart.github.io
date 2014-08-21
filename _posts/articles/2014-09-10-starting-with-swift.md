@@ -27,7 +27,7 @@ Small application, about 3 screens (splash, main, results) and 2 input boxes. So
 
 Around this time I decided I wanted to meet more developers in Tokyo, so I joined a few meetups and doorkeeper events. One of those is the [Tokyo iOS Meetup](http://www.meetup.com/TokyoiOSMeetup/) which has a coding club every few weeks. Awesome, I'll meet other folks, port the app and learn more about iOS and swift. 
 
-The first coding club I went was in August 4th, organized by [Ahart](http://www.meetup.com/TokyoiOSMeetup/members/75042762/) and [Jonathan](http://www.meetup.com/TokyoiOSMeetup/members/2013655/) at a space provided by [Luxstack](luxstack.com), big thanks to them.
+The first coding club I went was in August 4th, organized by [Ahart](http://www.meetup.com/TokyoiOSMeetup/members/75042762/) and [Jonathan](http://www.meetup.com/TokyoiOSMeetup/members/2013655/) at a space provided by [Luxstack](http://www.luxstack.com), big thanks to them.
 
 ###So here is what I learned
 
