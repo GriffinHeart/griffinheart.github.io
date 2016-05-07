@@ -27,4 +27,4 @@ Where can I find you?
 
 At the usual suspects for a developer, try [github](http://github.com/GriffinHeart) or perhaps [twitter](https://twitter.com/leShadowGriff). I also have [linkedin](https://www.linkedin.com/in/hfalmeida) and a [coderwall](https://coderwall.com/griffinheart).
 
-If you really want you can also send me an email `squall.griffinheart [at] gmail [dot] com`. (yes I'm a HOMM3 and FF fan)
+If you really want you can also send me an email `hugofalmeida [at] gmail [dot] com`. (yes I'm a HOMM3 and FF fan)
