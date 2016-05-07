@@ -10,6 +10,8 @@ Hey, I'm Hugo.
 
 This is my personal website/blog. Expect to find anything from programming to personal stuff.
 
+Go and check my [articles](/articles).
+
 I'm a software engineer with a passion to be great, I enjoy solving problems at any level, be it technical or business.
 
 I'm living in Tokyo, since I was a kid I've wanted to come to Japan, it's a magical weird place. I was in love with Japan before I came here and amazed every day since I got here. I work mainly as a full stack developer and am a generalist.
